@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@200;500&display=swap");
+
+* {
+    margin: 0;
+}
+
+.navbar {
+    height: 80px;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.collapse {
+    background-color: #fff;
+}
+
+#Presentacion {
+    background-image: url("../img/foto2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    height: 700px;
+}
+
+.btn {
+    background-color: rgb(80, 6, 110);
+    color: white;
+    border: none;
+}
+
+.btn:hover {
+    background-color: rgb(22, 177, 177);
+    color: white;
+    border: none;
+}
+
+/* portafolio*/
+
+#Portafolio {
+    background-image: url(../img/fondo2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    color: rgb(80, 6, 110);
+}
+
+p {
+    color: rgb(58, 8, 101);
+}
+
+/*experiencia*/
+
+#experiencia {
+    background-image: url(../img/fondo2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-header {
+    background-color: blueviolet;
+}
+
+/*footer*/
+
+.footer {
+    background-color: purple;
+}
+
+.icon {
+    font-size: 2rem;
+    color: #fff;
+}
+
+.icon:hover {
+    font-size: 2rem;
+    color: turquoise;
+}
+
+.software {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconm {
+    width: 45px;
+}
+
+.iconm2 {
+    width: 65px;
+}
+
+.dum {
+    width: 350px;
+}
+
+.portada {
+    width: 410px;
+    border-radius: 10px;
+}
+
+.portada2 {
+    width: 410px;
+    height: 180px;
+    object-fit: cover;
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+}
+
+h2 {
+    margin-top: 3rem;
+}
