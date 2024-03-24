@@ -42,6 +42,24 @@
     background-size: cover;
 }
 
+#identidad-visual {
+    background-image: url(../img/fondo2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#InDesign {
+    background-image: url(../img/fondo2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#educacion {
+    background-image: url(../img/fondo2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 h2 {
     color: rgb(80, 6, 110);
 }
